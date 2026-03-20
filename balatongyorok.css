@@ -1,0 +1,36 @@
+body{
+    background-image: url(back.jpg)
+}
+
+#keret{
+    width: 1000px;
+    margin: auto;
+}
+
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url(panorama.jpg);
+    height: 220px;
+}
+
+#cimer{
+    float: right;
+}
+
+h1{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#bal{
+    width: 450px;
+    background-color: #5B9CEA;
+    float: left;
+}
+
+#jobb{
+    background-color:  #5B9CEA;
+    width: 450px;
+    float: right;
+}
